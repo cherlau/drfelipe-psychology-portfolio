@@ -82,7 +82,7 @@ export function Footer() {
             </div>
           </div>
           <div className="pt-8 border-t border-primary-foreground/10 text-center text-sm text-primary-foreground/60">
-            <p>© 2025 Psicologia Moderna. Todos os direitos reservados. CRP 06/123456</p>
+            <p>© 2025 Psicologia Moderna. Todos os direitos reservados. CRP 06/188968</p>
           </div>
         </div>
       </div>

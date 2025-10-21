@@ -87,7 +87,7 @@ export function About() {
             <div className="space-y-6">
               <h3 className="text-3xl sm:text-4xl font-bold">Olá, sou o Dr. Felipe Guimarães</h3>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
-                <p className="text-sm font-semibold text-primary">CRP 06/123456 | Psicóloga Clínica</p>
+                <p className="text-sm font-semibold text-primary">CRP 06/188968 | Psicóloga Clínica</p>
                 <p>Especializada em Terapia Cognitivo-Comportamental e Terapia de Aceitação e Compromisso (ACT).</p>
                 <p>
                   Há mais de 8 anos ajudo jovens adultos a navegarem pelos desafios da vida moderna. Minha abordagem

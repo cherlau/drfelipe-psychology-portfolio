@@ -33,9 +33,9 @@ export function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-in-up text-pretty leading-relaxed">
-              <span className="font-semibold text-primary">Felipe Campos</span>,
-              Psicólogo focado em jovens adultos. Terapia online e presencial
-              para ansiedade, autoconhecimento e crescimento pessoal.
+              <span className="font-semibold text-primary">Felipe Guimarães</span>,
+              Psicólogo Analítico-Comportamental. Terapia online e presencial
+              focada em autoconhecimento e mudança de comportamento.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-in-up mb-12">
@@ -52,7 +52,7 @@ export function Hero() {
                 variant="outline"
                 className="text-base px-8 py-6 rounded-full border-2 bg-transparent"
               >
-                Saiba Mais
+                Conhecer abordagem
               </Button>
             </div>
 
@@ -86,8 +86,8 @@ export function Hero() {
               <div className="relative glass-effect rounded-[2rem] p-2 shadow-2xl">
                 <div className="relative aspect-[3/4] rounded-[1.75rem] overflow-hidden bg-gradient-to-br from-primary/10 to-accent/10">
                   <Image
-                    src="/perfil.png"
-                    alt="Dr. Felipe Campos - Psicólogo"
+                    src="/perfil11111.png"
+                    alt="Dr. Felipe Guimarães - Psicólogo"
                     fill
                     className="object-cover"
                     priority
@@ -96,13 +96,13 @@ export function Hero() {
                   <div className="absolute inset-0 bg-gradient-to-t from-primary/20 via-transparent to-transparent" />
                 </div>
 
-                <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 glass-effect px-6 py-3 rounded-full shadow-xl">
+                <div className="absolute -bottom-4 right-3 glass-effect px-6 py-3 rounded-full shadow-xl">
                   <p className="text-sm font-semibold text-center">
-                    Felipe Campos
+                    Felipe Guimarães
                   </p>{" "}
                   {/* <-- SEM "Dr." */}
-                  <p className="text-xs text-muted-foreground">
-                    Psicólogo | CRP 06/123456
+                  <p className="text-xs text-muted-foreground font-poppins">
+                    Psicólogo | CRP 06/188968
                   </p>{" "}
                   {/* <-- Assim! */}
                 </div>

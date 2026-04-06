@@ -109,7 +109,7 @@ npm start
 
 O projeto está configurado para deploy contínuo na **Vercel**.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://site-felipe-gamma.vercel.app/)
+https://site-felipe-gamma.vercel.app/
 
 ---
 

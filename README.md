@@ -1,6 +1,7 @@
 # 🧠 Site Institucional — Psicólogo
 
 > Landing page profissional e responsiva para psicólogo, com foco em acolhimento, clareza de informações e facilidade de contato.
+> https://drfelipe-psychology-portfolio.netlify.app/
 
 ---
 
@@ -33,7 +34,7 @@
 - 💬 **Depoimentos** — feedbacks de pacientes
 - 📬 **Contato** — formulário validado com envio direto
 - 📲 **Botão WhatsApp** — atalho flutuante para contato rápido
-- 📊 **Analytics** — monitoramento de visitas via Vercel Analytics
+- 📊 **Analytics** — monitoramento de visitas via Google Analytics
 - 📱 **Totalmente responsivo** — mobile-first
 
 ---
@@ -102,14 +103,6 @@ npm run build
 ```bash
 npm start
 ```
-
----
-
-## ☁️ Deploy
-
-O projeto está configurado para deploy contínuo na **Vercel**.
-
-https://site-felipe-gamma.vercel.app/
 
 ---
 
